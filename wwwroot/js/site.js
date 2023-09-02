@@ -3,7 +3,7 @@ let todos = [];
 
 function getItems() {
     fetch(uri)
-        .then(response => response.json())
+        .then(response => {response.json()})
         .then(data => _displayItems(data))
         .catch(error => console.error('Unable to get items.', error));
 }
@@ -84,6 +84,7 @@ function _displayCount(itemCount) {
 }
 
 function _displayItems(data) {
+    console.log(data)
     const tBody = document.getElementById('todos');
     tBody.innerHTML = '';
 

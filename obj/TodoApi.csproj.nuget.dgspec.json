@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JUAN\\source\\repos\\TodoApi\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\JUAN\\Desktop\\Software\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JUAN\\source\\repos\\TodoApi\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\JUAN\\Desktop\\Software\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JUAN\\source\\repos\\TodoApi\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\JUAN\\Desktop\\Software\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\JUAN\\source\\repos\\TodoApi\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\JUAN\\Desktop\\Software\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\JUAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JUAN\\source\\repos\\TodoApi\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\JUAN\\Desktop\\Software\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
